@@ -411,6 +411,10 @@ input, select, textarea {
 			margin-top: -20px;
 			margin-left: -20px;
 		}
+		.row.prak {
+			width: 500px;
+			height: 400px;
+		}
 
 			.row.gtr-50 > * {
 				padding: 20px 0 0 20px;
